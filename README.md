@@ -21,7 +21,7 @@ These instructions will guide you through setting up the project and running the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/sudoku-solver.git
+    git clone https://github.com/Hasnainbro/sudoku-solver.git
     ```
 
 2. Navigate to the project directory:
