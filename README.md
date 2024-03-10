@@ -37,7 +37,7 @@ These instructions will guide you through setting up the project and running the
 3. Run the Python script:
 
     ```bash
-    python sudokosolver.py
+    python sudoku_solver.py
     ```
 
 4. The solved Sudoku puzzle will be displayed in the console.
